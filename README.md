@@ -1,3 +1,9 @@
+Projeto criado na disciplina de SINGLE PAGE APPLICATION,
+foi muito divertido e o aprendizado retirado dessa materia foi incrivel.
+
+Eu sempre quis aprender react, essa disciplina foi perfeita para meu aprendizado.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
