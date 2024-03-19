@@ -8,7 +8,7 @@ export default function Home() {
   const [filmesEmAlta, setfilmesEmAlta] = useState([]);
   useEffect(() => {
     const options = {
-      headers: {"Authorization": "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxZmU5NDEzNmFlNjVjMWRhZTNjNzc4NjEzYzhkMTE3ZCIsInN1YiI6IjY1Zjc0OTBmZWY5ZDcyMDE2NWQ1NmNjYyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.JE69bUI4vFCXO0IqTICWODL__n2dnvS00vb-1sutecY"}
+      headers: {"Authorization": "Bearer //Codigo da api"}
     }
     fetch('https://api.themoviedb.org/3/trending/movie/week?language=pt-BR', options)
       .then((resp) => resp.json())
